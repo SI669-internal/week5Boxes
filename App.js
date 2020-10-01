@@ -1,6 +1,6 @@
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
-import { externalStyles } from './ExternalStyle';
+import { externalStyles } from './ExternalStyles';
 
 export function App1() {
   return (
